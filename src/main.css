@@ -1,0 +1,356 @@
+.Top{
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70px;
+    left: 10vw;
+    right: 10vw;
+}
+
+.Earth{
+    width: 16px;
+    height: 16px;
+    margin-top:16px;
+}
+
+.Top .Login{
+    margin-top:13px;
+}
+
+.Top .Login:hover{
+    font-weight:bold;
+    cursor: pointer;
+}
+
+.LoginBody{
+    margin-left: 10vw;
+    width: 80vw;
+    height: 60vh;
+    padding-top: 200px;
+}
+
+.Write{
+    width: 500px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.Loginform{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    width: 510px;
+    margin-left: 450px;
+    background-color: #D8D5DB;
+    height: 280px;
+}
+
+.Find{
+    margin-top: 15px;
+    display: flex;
+    flex-direction:row;
+}
+
+.FindContent{
+    padding: 10px;
+    border-right: 1px solid #939294;
+    color: #939294;
+}
+
+.FindContent:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.Bottom{
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 20vw;
+    border-bottom: 1px solid #b8b6b9;
+}
+
+
+
+.Info{
+    font-size: 11px;
+}
+
+.Telephone{
+    margin-top: 10px;
+}
+
+.Email{
+    margin-top: 10px;
+}
+
+.Link{
+    color:#b8b6b9;
+    font-size: 14px;
+    text-align: center;
+}
+
+.Link:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.Address{
+    margin-top: 10px;
+}
+
+.Bottom1{
+    padding-right: 150px;
+    border-right: 1px solid #D8D5DB;
+    padding-bottom: 50px;
+}
+
+.Bottom2{
+    padding-left: 70px;
+    padding-right: 70px;
+    border-right: 1px solid #D8D5DB;
+}
+
+.Bottom3{
+    padding-left: 50px;
+}
+
+.Tail{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.LoginButton{
+    background-color: skyblue;
+    width: 100px;
+    margin-top: 20px;
+    color: white;
+    border: skyblue;
+}
+
+.LoginButton:hover{
+    background-color: rgb(52, 116, 158);
+    cursor: pointer;
+}
+
+.HomeLogo{
+    font-weight: bold;
+}
+
+.HomeLogo:hover{
+    cursor: pointer;
+}
+
+.Logo1Img{
+    height: 250px;
+    width: 250px;
+    padding: 2px;
+    border: 1px solid #D8D5DB;
+}
+
+.Logo1Content{
+    border: 1px solid #D8D5DB;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 10px;
+}
+
+.Places{
+    display: flex;
+    flex-direction: row;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 350px;
+    height: 340px;
+}
+
+.Logo1{
+    margin-top:10px;
+    margin-right: 100px;
+    height: 325px;
+    border: 1px solid #D8D5DB;
+}
+
+.Logo1:hover{
+    cursor: pointer;
+    margin-top: 0px;
+}
+
+.Equips{
+    display: flex;
+    flex-direction: row;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 350px;
+    height: 340px;
+}
+
+.Logo2Img{
+    height: 200px;
+    width: 300px;
+    padding: 2px;
+}
+
+.Logo2Content{
+    border: 1px solid #D8D5DB;
+    height: auto;
+    padding: 7px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Logo2{
+    margin-top:10px;
+    width: 305px;
+    height: 250px;
+    border: 1px solid #D8D5DB;
+}
+
+.Logo2:hover{
+    cursor: pointer;
+    margin-top: 0px;
+}
+
+.Clubs{
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 60vw;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    height: 726px;
+}
+
+.Associations{
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 60vw;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.Logo3Img{
+    height: 150px;
+    width: 150px;
+    padding: 2px;
+    margin-left: 50px;
+}
+
+.Logo3Img:hover{
+    cursor: pointer;
+}
+
+
+.Logo3Content{
+    height: auto;
+    padding: 7px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.Logo3{
+    margin-top:10px;
+    width: 250px;
+    height: 250px;
+}
+
+.Performance1s{
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 60vw;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+
+.Logo4{
+    margin-top:10px;
+    width: 250px;
+    height: 250px;
+}
+
+.Logo4Img{
+    height: 150px;
+    width: 150px;
+    padding: 2px;
+    margin-left: 50px;
+}
+
+.Logo4Img:hover{
+    cursor: pointer;
+}
+
+
+.Logo4Title{
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.Logo4Eng{
+    height: auto;
+    text-align: center;
+    font-size: 14px;
+}
+
+.ClubThing{
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    padding-top: 70px;
+    padding-bottom: 400px;
+}
+
+.ClubInformation{
+    width: 800px;
+}
+
+.ClubImg{
+    margin-left: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+.ClubName{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Genre{
+    font-size: 20px;
+    color: grey;
+}
+
+.ClubInformation{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.ClubLocation{
+    font-weight: bold;
+}
+
+.ClubBoss{
+    font-weight: bold;
+}
