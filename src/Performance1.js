@@ -4,7 +4,7 @@ import Up from "./Up"
 import './main.css'
 import Down from "./Down"
 import Logo4 from './Logo4'
-import CtrldImg from './img/CTRL-D.png'
+import CtrldImg from '.src/img/CTRL-D.png'
 import HanulimImg from './img/HANULIM.png'
 import ChorusImg from './img/CHORUS.png'
 import SarmturImg from './img/SARMTUR.png'
