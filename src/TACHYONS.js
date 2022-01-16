@@ -3,7 +3,7 @@ import Up from "./Up"
 import './main.css'
 import Down from "./Down"
 import Club from './Club';
-import TachyonsImg from './img/TACHYONS.jpg'
+import TachyonsImg from './img/TACHYONS.png'
 const TACHYONS = () => {
     return(
         <div>

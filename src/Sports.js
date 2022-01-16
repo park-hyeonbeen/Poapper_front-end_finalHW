@@ -6,7 +6,7 @@ import Down from "./Down"
 import Logo4 from './Logo4';
 import TaksangImg from './img/TAKSANG.png'
 import TeampostechImg from './img/TEAMPOSTECH.jpg'
-import TachyonsImg from './img/TACHYONS.jpg'
+import TachyonsImg from './img/TACHYONS.png'
 import PobbaImg from './Img/POBBA.png'
 import PassingImg from '.img/PASSING.png'
 import KickoffImg from './img/KICKOFF.jpg'
