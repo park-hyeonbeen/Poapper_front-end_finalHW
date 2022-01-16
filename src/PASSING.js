@@ -3,7 +3,7 @@ import Up from "./Up"
 import './main.css'
 import Down from "./Down"
 import Club from './Club';
-import PassingImg from '.img/PASSING.png'
+import PassingImg from './img/PASSING.png'
 const PASSING = () => {
     return(
         <div>
