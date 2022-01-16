@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Poapper_front-end_finalHW/static/css/main.fdc55ddc.css",
+    "main.js": "/Poapper_front-end_finalHW/static/js/main.898fdd21.js",
+    "index.html": "/Poapper_front-end_finalHW/index.html",
+    "main.fdc55ddc.css.map": "/Poapper_front-end_finalHW/static/css/main.fdc55ddc.css.map",
+    "main.898fdd21.js.map": "/Poapper_front-end_finalHW/static/js/main.898fdd21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc55ddc.css",
+    "static/js/main.898fdd21.js"
+  ]
+}
