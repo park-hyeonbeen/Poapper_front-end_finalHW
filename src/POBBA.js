@@ -3,7 +3,7 @@ import Up from "./Up"
 import './main.css'
 import Down from "./Down"
 import Club from './Club';
-import PobbaImg from './Img/POBBA.png'
+import PobbaImg from './img/POBBA.png'
 const POBBA = () => {
     return(
         <div>

@@ -7,7 +7,7 @@ import Logo4 from './Logo4';
 import TaksangImg from './img/TAKSANG.png'
 import TeampostechImg from './img/TEAMPOSTECH.jpg'
 import TachyonsImg from './img/TACHYONS.png'
-import PobbaImg from './Img/POBBA.png'
+import PobbaImg from './img/POBBA.png'
 import PassingImg from '.img/PASSING.png'
 import KickoffImg from './img/KICKOFF.jpg'
 import ElevenImg from './img/ELEVEN.png'
