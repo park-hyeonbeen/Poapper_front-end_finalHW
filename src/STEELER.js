@@ -3,6 +3,7 @@ import Up from "./Up"
 import './main.css'
 import Down from "./Down"
 import Club from './Club';
+import SteelerImg from './img/STEELER.jpg'
 const STEELER = () => {
     return(
         <div>
